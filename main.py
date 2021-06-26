@@ -8,6 +8,7 @@ from kivy.core.window import Window
 from random import randint
 
 Window.size = (1300,600)
+# R G B
 Window.clearcolor = (0.19, 0.22, 0.22, 1)
 
 
@@ -36,7 +37,7 @@ class Generator(App):
                         text= "",
                         font_size= 20,
                         italic=True,
-                        color= '#eab676'
+                        color= '#eab676',
                         )
         self.window.add_widget(self.quotation)
 
@@ -50,7 +51,6 @@ class Generator(App):
                       #remove darker overlay of background colour
                       background_normal = ""
                       )
-        #self.button.padding = 10
         self.button.bind(on_press=self.callback)
         self.window.add_widget(self.button)
 
