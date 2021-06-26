@@ -3,12 +3,9 @@
 'Kiedy ktoś przechodzi właśnie przez burzę, twoja cicha obecność jest potężniejsza niż milion pustych słów.' Thema Davis
 'Albo wygram albo zdechnę.' Justyna Kowalczyk
 'Twoje poczucie własnej wartości zależy tylko od ciebie. Nie musisz pozwalać nikomu mówić ci, kim masz być.' Beyonce
-'Nasz rozwój nigdy się nie kończy, składa się z mnóstwa etapów i kiedy już człowiek myśli, że osiągnął ostatni, otwiera się przed nim kolejny. Ale właśnie to jest fantastyczne! To jak obieranie karczocha, dokopywanie się do tej miękkiej i słodkiej części. Zrzucanie kolejnych twardych, ograniczających warstw.' Agnieszka Maciąg
 'Można mieć wszystko. Po prostu nie można mieć wszystkiego jednocześnie.' Oprah Winfrey
-'Pamiętam, że miałam bardzo mało pieniędzy, że głodowałam i kontrolowałam wydatki. Że musiałam podejmować decyzje, czy dzisiaj kupić paczkę orzeszków ziemnych i kubełek jogurtu, czy jutro kupić dużą torbę serowego popcornu i karton soku żurawinowego. Tym się wtedy żywiłam. Ale nie brałam pod uwagi innej możliwości niż sukces.' Madonna
-'Jeżeli jesteś nastawiony na to żeby wszyscy cię lubili, będziesz gotowy poświęcić wszystko każdego dnia i niczego nie osiągniesz.' Margaret Thatcher
+'Jeżeli jesteś nastawiony żeby wszyscy cię lubili, będziesz gotowy poświęcić wszystko każdego dnia i niczego nie osiągniesz.' Margaret Thatcher
 'Zagłuszanie bólu na jakiś czas sprawia, że powraca ze zdwojoną siłą.' J.K Rowling
-'Pamiętaj, że kiedy potrzebujesz pomocnej dłoni – jest ona na końcu twojego ramienia. Gdy jesteś starszy, pamiętaj, że masz drugą dłoń: pierwsza jest po to aby pomagać sobie, druga, żeby pomagać innym.' Audrey Hepburn
 'Kobieta jest jak torebka z herbatą. Nie wiadomo, jak jest mocna, dopóki nie znajdzie się w gorącej wodzie.' Eleonor Roosevelt
 'Mieć trudne życie – to wielki przywilej.' Indira Gandhi
 'Lepiej być nieszczęśliwą samotnie, niż nieszczęśliwą z kimś innym.' Marilyn Monroe
@@ -26,23 +23,23 @@
 'Przyszedł ten dzień, kiedy ryzyko trwania w pąku było bardziej bolesne niż ryzyko zakwitnięcia.' Anais Nin
 'Kiedyś – nie ma takiego dnia tygodnia.' Janet Dailey
 'Wznoś się po każdym upadku, padniesz trupem albo urosną Ci skrzydła.' Maria von Ebner-Eschenbach
-'W życiu nie zawsze wygrywają najmądrzejsi, najpiękniejsi i najbardziej przebojowi. Wygrywają ci, którzy postanawiają wygrać.' Kamila Rowińska
+'W życiu nie zawsze wygrywają najmądrzejsi, najpiękniejsi. Wygrywają ci, którzy postanawiają wygrać.' Kamila Rowińska
 'Dawać bez wahania, tracić bez żalu i zdobywać bez chciwości…' George Sand
 'Nigdy nie marnuj czasu, próbując wytłumaczyć kim jesteś ludziom, którzy postanowili Cię nie zrozumieć.' Dream Hampton
 'Dawanie otwiera drogę do otrzymywania.' Florence Scovel Shinn
 'Nauczyłam się, że droga postępu nie jest ani szybka, ani łatwa.' Maria Skłodowska-Curie
 'W życiu nie chodzi o czekanie aż burza minie. Chodzi o to, by nauczyć się tańczyć w deszczu.' Vivian Green
 'Jeśli chcesz dobrze dla swoich dzieci, to spędzaj z nimi dwa razy więcej czasu i wydawaj na nie dwa razy mniej pieniędzy.' Abigail Van Buren
-'Zbyt często ludzie pracują ciężko nad niewłaściwą rzeczą. Pracować nad właściwą rzeczą jest prawdopodobnie ważniejsze niż pracować ciężko.' Caterina Fake
+'Zbyt często ludzie pracują ciężko nad niewłaściwą rzeczą. Pracować nad właściwą rzeczą jest ważniejsze niż pracować ciężko.' Caterina Fake
 'To twoje miejsce na świecie i twoje życie; idź i zrób z nim to, co tylko możesz, uczyń z niego to życie, które chciałbyś przeżyć.' Mae Jemison
 'Nigdy nie jest za późno – za późno by zmienić swoje życie, za późno by być szczęśliwym.' Jane Fonda
 'Żyje się tylko raz, ale jeśli żyjesz dobrze, ten raz wystarczy.' Mae West
 'W życiu nie ma rzeczy, których można żałować; są tylko rzeczy, na których można się uczyć.' Jennifer Aniston
 'Myślę, że wypalenie jest kwestią złości. Można je przezwyciężyć, znajdując to, co cię złości i przezwyciężając to.' Marissa Mayer
 'Jeśli masz marzenie, musisz uchwycić się go i nigdy nie puszczać.' Carol Burnett
-'Życie jest niesamowicie ciekawe i zaskakujące.. po jakimś czasie twoje największe cierpienia zamieniają się w źródła twojej największej siły.' Drew Barrymore
+'Życie jest niesamowicie zaskakujące.. po jakimś czasie twoje cierpienia zamieniają się w źródła twojej największej siły.' Drew Barrymore
 'Jeśli ktoś uśmiecha się do ciebie, odpowiedz mu tym samym.' Dolly Parton
-'Dowiedz się, kim jesteś i trzymaj się tego. To po to zostałeś umieszczony w tym życiu. Odnajdź tę jedną prawdę, a wszystko inne przyjdzie wraz z nią.' Ellen Degeneres
+'Dowiedz się, kim jesteś i trzymaj się tego. To po to zostałeś umieszczony w tym życiu.' Ellen Degeneres
 'Nie boję się sztormów i burz, dzięki nim uczę się, jak żeglować moim statkiem.' Louisa May Alcott
 'Marzenie jest formą planowania.' Gloria Steinem
 'Ludzie najczęściej rezygnują ze swej siły poprzez myślenie, że nie mają żadnej.' Alice Walker
@@ -53,9 +50,7 @@
 'Nie ograniczaj siebie. Jesteś wszystkim, co masz.' Janis Joplin
 'Nie można żyć, naśladując kogoś innego. Oznacza to życie pozbawione wszelkich prawdziwych emocji.' Billie Holiday
 'Niezależnie od tego, skąd jesteś, twoje marzenia są ważne.' Lupita Nyong’o
-'Nie można nikogo nakłonić do zmiany. Każdy z nas pilnuje własnej furtki do zmian, która otwiera się tylko od wewnątrz. Nie możemy otworzyć furtki innym, odwołując się czy to do argumentów, czy do uczuć.' Marilyn Ferguson
-'Wdzięczność otwiera pełnię życia. Sprawia, że to, co mamy, wystarcza. Zamienia opór w akceptację, chaos w porządek, konfuzję w klarowność. Może zamienić posiłek w ucztę, mieszkanie w dom, obcego w przyjaciela. Wdzięczność nadaje sens przeszłości, przynosi pokój dzisiaj i tworzy wizję jutra.' Melody Beattie
-'Ciężki jest los współczesnej kobiety. Musi ubierać się jak chłopak, wyglądać jak dziewczyna, myśleć jak mężczyzna i pracować jak koń.' Elizabeth Taylor
+'Ciężki jest los kobiety. Musi ubierać się jak chłopak, wyglądać jak dziewczyna, myśleć jak mężczyzna i pracować jak koń.' Elizabeth Taylor
 'Jakże często szczęście bywa zaprzepaszczone przez zbyt długie przygotowania – głupie przygotowania!' Jane Austen
 'Jak można stać się motylem? Musisz tak bardzo chcieć latać, że jesteś gotów porzucić bycie gąsienicą.' Trina Paulus
 'Prawdziwą miarą osoby jest to jak traktuje tych, którzy nie mogą wyświadczyć jej żadnej przysługi. 'Ann Landers
@@ -72,14 +67,12 @@
 'Móc czegoś nie chcieć, to już jest szczęście.' Maria Dąbrowska
 'Każdemu, kto tonie, należy podać rękę!' Irena Sendlerowa
 'Niemożliwe nie może się zdarzyć, wobec tego pozornie niemożliwe musi być możliwe.' Agatha Christie
-'Czynienie dobra powinno przede wszystkim dotyczyć nas samych. Wyzbywam się więc złych emocji, które nagromadzone we mnie sprawiają, że cierpią na tym najbliższe mi osoby. Staram się więc nie ulegać impulsom, nie złościć, być po prostu na co dzień życzliwą. To działa w obie strony, bo im ja jestem lepsza dla siebie, tym jestem lepsza dla innych.' Ania Przybylska
 'Każdy miewa w życiu momenty, kiedy musi się zastanowić, kim jest i czego chce.' Julia Roberts
-'Nigdy nie odmawiaj zaproszenia. Nigdy nie opieraj się nieznanemu. Po prostu otwórz się na świat i napawaj przeżyciami. A jeśli się sparzysz? Cóż, trudno… Pewnie nie na darmo…' Martyna Wojciechowska
+'Nigdy nie odmawiaj zaproszenia. Nigdy nie opieraj się nieznanemu. Po prostu otwórz się na świat i napawaj przeżyciami. ' Martyna Wojciechowska
 'Tyle wiemy o sobie, ile nas sprawdzono.' Wisława Szymborska
 'Nie tęskni się za tym, czego się nie doświadczyło.' Katarzyna Grochola
-'Moja historia nie wyglądała tak, że pracowałam w McDonald’s, ktoś mnie zauważył i następnego dnia chodziłam po wybiegu. To była świadoma decyzja, marzenie, do którego dążyłam.' Anja Rubik
-'Rozśmiesza mnie wszystko. I cieszę się, że tak jest. Musisz zawsze znaleźć jakiś powód do śmiechu, bo inaczej – życie staje się bez sensu.' Cameron Diaz
-'To wybór,a nie przypadek, decyduje o twoim przeznaczeniu. Sam musisz zdecydować, ile jesteś wart, jaką odgrywasz rolę w świecie i w jaki sposób nadajesz mu sens. Nikt inny nie dysponuje tym, co ty-twoim zestawem talentów, pomysłów, zainteresowań. Jesteś oryginalnym egzemplarzem. Arcydziełem.' Regina Brett
+'Moja historia nie wyglądała tak, że pracowałam w McDonald’s, ktoś mnie zauważył i następnego dnia chodziłam po wybiegu.' Anja Rubik
+'Rozśmiesza mnie wszystko. Musisz zawsze znaleźć jakiś powód do śmiechu, bo inaczej – życie staje się bez sensu.' Cameron Diaz
 'Nic tak nie rozwija, jak zdrowa rywalizacja. Uważam, że tylko konkurencja skłania nas do ciągłego rozwoju.' Joanna Przetakiewicz
 'Dla mnie receptą jest niezmuszanie się do niczego. Ja robię to, na co mam ochotę.' Krystyna Janda
 'Moja praca – to ja.' Gosia Baczyńska
@@ -87,13 +80,57 @@
 'Na zawsze składa się z wielu teraz.' Emily Dickinson
 'Jest niewiele lepszych dróg do porozumienia od dialogu.' Bożena Walter
 'Jeżeli jest mi źle, to nie marudzę i zmieniam to, co mi doskwiera.' Katarzyna Bujakiewicz
-'Można się tak całe życie zastanawiać, czy wyjść z domu, czy może lepiej zostać, bo zacznie padać deszcz. Ja po prostu wychodzę i nie kombinuję.' Agnieszka Dygant 
 'Uważam, że nie pracuje się tylko po to, by się utrzymać. Trzeba robić coś, co daje satysfakcję niematerialną.' Ewa Błaszczyk
 'Kiedy się działa, mniej boli.' Anna Dymna
 'Według mnie piękno to nie ładna czy wyprasowana buzia, ale wewnętrzne światło.' Danuta Stenka
 'Ten tramwaj dalej nie jedzie.' Henryka Krzywonos
 'Dla mnie największym afrodyzjakiem jest dom pachnący cynamonem i jabłkami. Tak pachnie dom szczęśliwy.' Ewa Wachowicz
 'Życie jest za piękne, aby żyć normalnie.' Maria Czubaszek
-'Staram się żyć każdym dniem, cieszyć się tym, co przynosi. Myśleć o tym, co dobre, a nie złe. Bo tak jest łatwiej. Nie przejmować się tym, co było, ani tym, co mnie jeszcze czeka. Wiadomo, że to nie jest proste. Ale nie wybiegam daleko w przyszłość, najdalej o dzień, dwa. Żyję chwilą. Dużo przeszłam i to mnie nauczyło, że nie warto wszystkiego planować. Życie i tak pisze swój własny scenariusz.' Agata Mróz-Olszewska
 'Szczęście się nie kończy, ono ulega zmianom.' Lolita Pille
-'Kiedy tak patrzę na to, co się z przyrodą dzieje w maju, na to co i kogo mam, to się zastanawiam jak do cholery mogę choć na jedną chwilę zapomnieć o niekończących się możliwościach, które daje mi moje życie?' Basia Szmydt
+'Dopóki nie będziesz cenić siebie, nie będziesz cenić własnego czasu.' M. Scott Peck
+'Jesteśmy tym, co w swoim życiu powtarzamy. Doskonałość nie jest jednorazowym aktem, lecz nawykiem.' Arystoteles
+‘Jeśli nie czujesz się godny, by wyrosły Ci skrzydła, nigdy nie oderwiesz się od ziemi.’ Nick Vujicic
+‘Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać.’ Walt Disney
+‘Ludzie są dokładnie tak szczęśliwi, jak myślą, że są.’  Abraham Lincoln
+‘Potykając się, można zajść daleko; nie wolno tylko upaść i nie podnieść się.’  Goethe
+‘Prawdziwy akt odkrycia nie polega na odnajdywaniu nowych lądów, lecz na patrzeniu na stare w nowy sposób.’ Marcel Proust
+‘Mądrzy ciągle się uczą, głupcy najczęściej wszystko umieją.’  Apolinary Despinoix
+‘Motywacja jest tym co pozwala Ci zacząć. Nawyk jest tym co pozwala Ci wytrwać!’  Stephen Covey
+‘W życiu nie chodzi o czekanie, aż burza minie… Chodzi o to, by nauczyć się tańczyć w deszczu.’  Vivian Green
+‘Ważniejsze jest, co ty myślisz o sobie samym, niż to, co o tobie myślą inni.’  Seneka Mlodszy
+‘Kto potrafi cieszyć się z małych rzeczy, mieszka w ogrodzie pełnym szczęśliwości.’ Phil Bosmans
+‘Nigdy nie rezygnuj z celu tylko dlatego, że osiągnięcie go wymaga czasu. Czas i tak upłynie.’  H. Jackson Brown
+`Rób to, co uważasz za stosowne. I tak zawsze znajdzie się ktoś, kto uważa inaczej…`  Michelle Obama
+‘Kiedyś – nie ma takiego dnia tygodnia.’ Janet Dailey
+`Twój czas jest ograniczony, więc nie marnuj go na byciem kimś, kim nie jesteś.` Steve Jobs
+`Najtrudniejsze jest zdecydowanie się na działanie. Reszta to już tylko kwestia wytrwałości.` Amelia Earhart
+`Nie ma nic złego w świętowaniu sukcesu, ale ważniejsze jest wyciągnięcie nauki z porażki.` Bill Gates
+`Cel to nic innego, jak marzenie z terminem realizacji.` Joe L. Griffith
+`Bądź wdzięczny za to, co masz, a będziesz miał tego więcej.` Oprah Winfrey
+`Nie znam klucza do sukcesu, ale kluczem do klęski jest próba zadowolenia wszystkich.` Bill Cosby
+`Aby zapalać innych, samemu trzeba płonąć.` Jacek Walkiewicz
+`Ludzie na ogół dają się łatwiej przekonać przez argumenty, na które sami wpadli, niż przez te, które ktoś im narzucił.` Blaise Pascal
+`Nic nie jest szczególnie trudne do zrobienia, jeśli tylko rozłożyć to na etapy.` Henry Ford
+`To, czego boimy się najbardziej, jest z reguły tym, co właśnie powinniśmy zrobić.` Ralph Waldo Emerson
+`Sukces nie jest kluczem do szczęścia, ale szczęście jest kluczem do sukcesu.` Albert Schweitzer
+`Skoro i tak będziesz myśleć, myśl odważnie.` Donald Trump
+`Nie bój się dużego kroku. Nie pokonasz przepaści dwoma małymi.` David Lloyd George
+`Porażka jest po prostu okazją, by spróbować ponownie, tym razem bardziej przemyślanie.` Henry Ford
+`Czy jest ktoś, kogo chciałbyś zmienić, poinstruować, ulepszyć? Świetnie! Jestem za! Ale dlaczego nie zaczniesz od siebie?` Dale Carnegie
+`Bądź tak dobry, by nie mogli Cię dłużej ignorować.` Steve Martin
+`Nie wystarczy być we właściwym czasie, we właściwym miejscu. Trzeba być jeszcze właściwie przygotowanym.` Jacek Chmielecki
+`Nie uda Ci się przepłynąć oceanu dopóki nie zdobędziesz odwagi, by stracić z oczu widok lądu.` Krzysztof Kolumb
+`Zacznij od robienia tego, co konieczne; potem zrób to, co możliwe; nagle odkryjesz, że dokonałeś niemożliwego.` św. Franciszek z Asyżu
+`Nie chcę pod koniec życia stwierdzić, że przeżyłam tylko jego długość. Chcę przeżyć też pełną jego szerokość.` Diane Ackerman
+`Życie jest długie i nudne, jeśli nie przeżywa się go tak, jakby się chciało.` Laurent Gounelle
+`Twój czas jest ograniczony, więc nie marnuj go na życie czyimś życiem.` Steve Jobs
+`Czasami od myślenia odstrasza nas nie związany z nim wysiłek, lecz wnioski, do jakich moglibyśmy dojść.` Robert Cialdini
+`Początek jest najważniejszą częścią pracy.` Platon
+`Życie to 10% tego, co nam się przydarza i 90% tego, jak na to reagujemy. Nasze podejście jest wszystkim.` Charles Swindol
+`Umysły są jak spadochrony – działają tylko gdy są otwarte.` Thomas Dewar
+`Jedynymi osobami, z którymi powinieneś wyrównać rachunki są ci, którzy Ci pomogli.` John E. Southard
+`Gdy nie wiesz, do którego portu płyniesz, żaden wiatr nie jest dobry.` Seneka
+`Miej podejście właściwe studentom: nigdy nie bądź zbyt wielkim, by zadawać pytania, nigdy nie wiedz zbyt dużo, by nauczyć się czegoś nowego.` Og Mandino
+`Zawsze zastanawiałem się, dlaczego ptaki zostają w tym samym miejscu, skoro mogą latać po całym świecie. Potem zadałem to samo pytanie sobie.` Harun Yahya
+`Nic, co ma wielką wartość w życiu nie przychodzi łatwo.` Norman Vincent Peale
+`Jeśli w życiu brakuje miejsca na odwagę, to inne cnoty są bez znaczenia.` Winston Churchill

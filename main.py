@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.label import Label
@@ -7,12 +7,16 @@ from kivy.uix.button import Button
 from kivy.core.window import Window
 from random import randint
 
+Window.size = (1300,600)
+Window.clearcolor = (0.19, 0.22, 0.22, 1)
+
+
 class Generator(App):
     def build(self):
         #return window object
         self.window = GridLayout()
         self.window.cols = 1
-        self.window.size_hint = (0.85, 0.85)
+        self.window.size_hint = (0.65, 0.90)
         self.window.pos_hint = {"center_x": 0.5, "center_y":0.5}
 
          # label widget
@@ -30,7 +34,7 @@ class Generator(App):
         # label widget
         self.quotation = Label(
                         text= "",
-                        font_size= 22,
+                        font_size= 20,
                         italic=True,
                         color= '#eab676'
                         )
@@ -39,20 +43,21 @@ class Generator(App):
         # button widget
         self.button = Button(
                       text= "Losuj cytat!",
-                      size_hint= (1,0.4),
+                      size_hint = (1, 0.5),
                       bold= True,
                       italic=True,
                       background_color ='#76b5c5',
                       #remove darker overlay of background colour
                       background_normal = ""
                       )
+        #self.button.padding = 10
         self.button.bind(on_press=self.callback)
         self.window.add_widget(self.button)
 
         # close button widget
         self.button = Button(
                       text= "Zamknij!",
-                      size_hint= (1,0.4),
+                      size_hint= (1,0.3),
                       bold= True,
                       italic=True,
                       background_color ='#76b5c5',
